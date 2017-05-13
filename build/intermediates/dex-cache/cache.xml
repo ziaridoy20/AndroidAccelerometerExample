@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ziaridoy20/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/ziaridoy20/Dev/Documents/Programs/AndroidPrograms/AndroidAccelerometerExample/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_70d9b243f3eea1b882f794a640c085e7684e20e7.jar" />
+    </item>
+
+</items>

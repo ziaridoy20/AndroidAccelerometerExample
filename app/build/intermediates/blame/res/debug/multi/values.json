@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/ziaridoy20/Dev/Documents/Programs/AndroidPrograms/AndroidAccelerometerExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/ziaridoy20/Dev/Documents/Programs/AndroidPrograms/AndroidAccelerometerExample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 52,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 64,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/ziaridoy20/Dev/Documents/Programs/AndroidPrograms/AndroidAccelerometerExample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 64,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 52,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/home/ziaridoy20/Dev/Documents/Programs/AndroidPrograms/AndroidAccelerometerExample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 52,
+                        "endOffset": 172
+                    }
+                }
+            }
+        ]
+    }
+]
